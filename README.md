@@ -13,4 +13,6 @@
     - 获取属于自己的任务
     - 运行任务
     - 更新任务的 alivetime
+- DB
+  - 由 DB保证数据一致性
 ![img](https://raw.githubusercontent.com/leoChaoGlut/distributed-computing-pattern/master/distributed-computing-pattern.png)
